@@ -12,7 +12,7 @@ struct MapView: View {
     var coordinate: CLLocationCoordinate2D
     
     var body: some View {
-        Map(initialPosition: .region(region))
+        Map(position: .constant(.region(region)))
     }
     private var region: MKCoordinateRegion {
             MKCoordinateRegion(

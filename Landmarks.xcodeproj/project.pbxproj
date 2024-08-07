@@ -92,9 +92,9 @@
 		D65F401E2C2A607E00EA220C /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				D69A566B2C29AB250060F4B7 /* ContentView.swift */,
 				D664FD2B2C62200200A6230D /* Landmarks */,
 				D664FD2C2C62203300A6230D /* Helper */,
-				D69A566B2C29AB250060F4B7 /* ContentView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";

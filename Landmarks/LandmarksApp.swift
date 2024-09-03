@@ -16,5 +16,6 @@ struct LandmarksApp: App {
         WindowGroup {
             ContentView()
         }
+        
     }
 }
